@@ -7,11 +7,11 @@
 -ve anticlockwise
 */
 
-#define WATER 11*15 //flame 1
-#define OIL 15*15 //flame 2
-#define NON_KNIFE 1*15 //source1
-#define KNIFE 19*15 + 15  //source 2
-#define SERVE 6*15 //deliver 1
+#define WATER 11*15
+#define OIL 15*15
+#define NON_KNIFE 1*15
+#define KNIFE 19*15 + 15
+#define SERVE 6*15
 #define A2LB 8*15
  
 int  length_of_move =  5;
@@ -19,9 +19,9 @@ int  stepsPerRevolution = 200;
 int  PAN_LENGTH =  length_of_move * stepsPerRevolution - 30;
 int  GROUND_LENGTH = length_of_move * stepsPerRevolution + 60;
 int  A2LB_LENGTH = length_of_move * stepsPerRevolution - 205;
-int  NON_KNIFE_HEIGHT = length_of_move * stepsPerRevolution - 40; //source1 height Doneeee
-int  KNIFE_HEIGHT =  200 ;//source 2 heigth
-int  deleiverHeight = length_of_move * stepsPerRevolution - 140; // Done
+int  NON_KNIFE_HEIGHT = length_of_move * stepsPerRevolution - 40;
+int  KNIFE_HEIGHT =  200;
+int  deleiverHeight = length_of_move * stepsPerRevolution - 140;
 bool haveKnife = false;
 
 #define stepSize 45
@@ -32,7 +32,7 @@ bool haveKnife = false;
 #define pistonHolder2 A0
 #define pump A3
 #define Kettle A5
-#define knifePin A4//probably change this ------------------------------------------------------------------------------------------------------------>
+#define knifePin A4
 
 //food types
 #define MAKE_FRIED_FRIES 0
@@ -44,13 +44,13 @@ bool haveKnife = false;
 
 //ingrediants locations
 #define POTATOS 1.4
-#define RICE 0.9//check
+#define RICE 0.9
 #define NOODLES 0.2
-#define CUCUMBER 3.9//check
+#define CUCUMBER 3.9
 #define CARROT 2.7
 #define ZUGHINI 5.5
 #define SUGAR 7
-#define TEA 5.6//check
+#define TEA 5.6
 
 #define interval 10000   //10 sec
 #define TEA_TIME 10000   //10 sec
@@ -87,8 +87,8 @@ int read_input()
     order = Serial.read() - 48;
     quantity = Serial.read() - 48;
 
-    /*if (order == MAKE_TEA && Serial.available())
-      sugar_quantity = Serial.read() - 48;*/
+    if (order == MAKE_TEA && Serial.available())
+      sugar_quantity = Serial.read() - 48;
 
      Serial.flush();
      return 1;
@@ -144,7 +144,6 @@ void checkAndServe()
     emsk(PAN_LENGTH);
     move_arm(SERVE);
     syb(deleiverHeight);
-    //a2lb
     delay(3000);
     returnPan();
     water_free = HIGH;
@@ -155,7 +154,6 @@ void checkAndServe()
     emsk(PAN_LENGTH);
     move_arm(SERVE);
     syb(deleiverHeight);
-    //a2lb
     delay(3000);
     returnPan();
     oil_free = HIGH;
@@ -436,16 +434,13 @@ void make_tea()
   digitalWrite(Kettle, LOW);
   drink_finish_time = millis() + TEA_TIME;
   choose_ingredient(TEA, quantity);
-  //choose_ingredient(SUGAR, sugar_quantity);
+  choose_ingredient(SUGAR, sugar_quantity);
 }
 
 
 void make_fried_fries()
 {
   oil_free=LOW;
-  /*move_arm(SERVEOIL);
-  emsk(GROUND_LENGTH);
-  move_arm(NON_KNIFE);*/
   fetchAndGo(NON_KNIFE);
   choose_ingredient(POTATOS, quantity);
   fixHeigth();
@@ -458,9 +453,6 @@ void make_fried_fries()
 void make_riceORnoodles(int food)
 {
   water_free=LOW;
-  /*move_arm(SERVEWATER);
-  emsk(GROUND_LENGTH);
-  move_arm(NON_KNIFE);*/
   fetchAndGo(NON_KNIFE);
   choose_ingredient(food, quantity);
   fixHeigth();
@@ -472,9 +464,6 @@ void make_riceORnoodles(int food)
 
 void make_salad()
 {
-  /*move_arm(SERVEWATER);
-  emsk(GROUND_LENGTH);
-  move_arm(KNIFE);*/
   fetchAndGo(KNIFE);
   digitalWrite(knifePin, LOW);
 
@@ -494,9 +483,6 @@ void make_salad()
 void make_salad_soup()
 {
   water_free=LOW;
-  /*move_arm(SERVEWATER);
-  emsk(GROUND_LENGTH);
-  move_arm(KNIFE);*/
   fetchAndGo(KNIFE);
   digitalWrite(knifePin, LOW);
 
