@@ -47,9 +47,10 @@ Captain Hook is robot which makes food and drinks.
  Menu of food
  <ul>
  <li>Rice</li>
- <li>Pasta</li>
- <li>French fries</li>
- <li>sautéed salad</li>
+ <li>Noodles</li>
+ <li>Fried fries</li>
+ <li>Salad</li>
+ <li>Salad soup</li>
  </ul>
  </li>
   <li>
@@ -58,6 +59,41 @@ Captain Hook is robot which makes food and drinks.
  <li>Tee</li>
  <li>Nescafe</li>
  </ul>
+ </li>
+ <li>
+ Input for every order
+ <br>
+ <table>
+ <thead>
+ <th>Input</th>
+ <th>Order</th>
+
+ </thead>
+ <tr>
+ <td>0</td>
+ <td>Fried fries </td>
+ </tr>
+ <tr>
+ <td>1</td>
+ <td>Rice </td>
+ </tr>
+ <tr>
+ <td>2</td>
+ <td>Noodles </td>
+ </tr>
+ <tr>
+ <td>3</td>
+ <td>Salad </td>
+ </tr>
+ <tr>
+ <td>4</td>
+ <td>Salad soup </td>
+ </tr>
+ <tr>
+ <td>5</td>
+ <td>Tea</td>
+ </tr>
+ </table>
  </li>
 </ul>
 
@@ -71,19 +107,51 @@ Captain Hook is robot which makes food and drinks.
 
 ### <img align="center"  width =80px  height =80px src="https://media1.giphy.com/media/U22HxRRRXQDHrRwxz7/giphy.gif?cid=ecf05e47q75w3nv9j1osrv4xbnqqm23d2tmb4myyj9ufg4nd&rid=giphy.gif&ct=s"> Arm
 
+<ul>
+<li>
+Arm is response for transfer food to heater and deliver for user
+</li>
+<li>
+Arm has hook which make him can carry colander which contain food
+</li>
+</ul>
+
+
+<hr style="background-color: #4b4c60"></hr>
 <a id = "Food"></a>
 
 ### <img align="center"  width =80px  height =80px src="https://media3.giphy.com/media/4CWSaafe9SOzB1cmEa/giphy.gif?cid=ecf05e47q5yhejy0ng4duja7jrzvlx1oqw5pfupiabxu1nf2&rid=giphy.gif&ct=s"> Food's Machine
-
-
+<ul>
+<li>
+Food's Machine is response for push food to Arm or Knife or Cup accoding the order
+</li>
+<li>
+Food's Machine has linear actuator help him to push food
+</li>
+</ul>
+<hr style="background-color: #4b4c60"></hr>
 <a id = "Knife"></a>
 
 ### <img align="center"  width =80px  height =80px src="https://media0.giphy.com/media/EppjGnpkOrY0rvjbsA/giphy.gif?cid=ecf05e4732u005bpf9xh4rni4pd64f1yfulqwepk5vbob3i7&rid=giphy.gif&ct=s"> Knife
+<ul>
+<li>
+Knife is response for cutting food like Cucumber and carrots to slides
+</li>
+<li>
+The output go to arm
+</li>
+</ul>
 
-
+<hr style="background-color: #4b4c60"></hr>
 <a id = "Boiler"></a>
 
 ### <img align="center"  width =80px  height =80px src="https://media1.giphy.com/media/ii2g4OpzlzWosixidO/giphy.gif?cid=ecf05e47z2s1da1eypgleqqcds0bqgyyvignyxai8mvyy8g3&rid=giphy.gif&ct=s"> Boiler
+<ul>
+<li>
+Boiler is response of put water after boiling in the cup and stirring  the drink
+</li>
+</ul>
+<img align="center"  width =300px  src="https://user-images.githubusercontent.com/71986226/178755493-91d3f8c5-a138-43af-961d-4238daf78ca1.png">
 
 
 
@@ -135,7 +203,7 @@ Captain Hook is robot which makes food and drinks.
     </td>
        <td align="center"><a href="https://github.com/AdhamAliAbdelAal" ><img src="https://avatars.githubusercontent.com/u/83884426?v=4" width="200px;" alt=""/><br /><sub><b>Adham Ali</b></sub></a><br />
     </td>
-     <td align="center"><a href="https://github.com/MahmoudAbdelhamidAli"><img src="https://avatars.githubusercontent.com/u/87570209?v=4" width="200px;" alt=""/><br /><sub><b>Mahmoud Abdlhamid</b></sub></a><br /></td>
+   <td align="center"><a href="https://github.com/khaHesham"><img src="https://avatars.githubusercontent.com/u/75990647?v=4" width="200px;" alt=""/><br /><sub><b>khaled Hesham</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/AbdelrahmanAshrafMohamedelsayed" ><img src="https://avatars.githubusercontent.com/u/97232730?v=4" width="200px;" alt=""/><br /><sub><b>Abdelrahman Ashraf</b></sub></a><br />
     </td>
   </tr>
@@ -148,7 +216,7 @@ Captain Hook is robot which makes food and drinks.
     <sub><b>Zeyad Tarek</b></sub></a>
     </td>
       <td align="center"><a href="https://github.com/mohamedromee12"><img src="https://avatars.githubusercontent.com/u/75943278?v=4" width="200px;" alt=""/><br /><sub><b>Mohamed Romee</b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/khaHesham"><img src="https://avatars.githubusercontent.com/u/75990647?v=4" width="200px;" alt=""/><br /><sub><b>khaled Hesham</b></sub></a><br /></td>
+       <td align="center"><a href="https://github.com/MahmoudAbdelhamidAli"><img src="https://avatars.githubusercontent.com/u/87570209?v=4" width="150px;" alt=""/><br /><sub><b>Mahmoud Abdlhamid</b></sub></a><br /></td>
      <td align="center"><a href="https://github.com/MohamedWw" ><img src="https://avatars.githubusercontent.com/u/64079821?v=4" width="200px;" alt=""/><br /><sub><b>Mohamed Walid</b></sub></a><br />
     </td>
   </tr>
@@ -189,8 +257,8 @@ Amr</b></sub></a><br />
   ### <img align="center" width=70px height=70px src="https://media2.giphy.com/media/MXcMYZIUv4TkDb4dbS/giphy.gif?cid=ecf05e472ps3l8zfyfzzw9h5uiu6wzt9lkif0vdos7h4r9h4&rid=giphy.gif&ct=s"> Responsibility of Hardware Integration
   <table >
   <tr>
+   <td align="center"><a href="https://github.com/MahmoudAbdelhamidAli"><img src="https://avatars.githubusercontent.com/u/87570209?v=4" width="150px;" alt=""/><br /><sub><b>Mahmoud Abdlhamid</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/EslamAsHhraf"><img src="https://avatars.githubusercontent.com/u/71986226?v=4" width="150px;" alt=""/><br /><sub><b>Eslam Ashraf</b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/MahmoudAbdelhamidAli"><img src="https://avatars.githubusercontent.com/u/87570209?v=4" width="150px;" alt=""/><br /><sub><b>Mahmoud Abdlhamid</b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/waleedhesham446" ><img src="https://avatars.githubusercontent.com/u/72695729?v=4" width="150px;" alt=""/><br /><sub><b>Waleed Hesham</b></sub></a><br />
     </td>
     <td align="center"><a href="https://github.com/AbdelrahmanAshrafMohamedelsayed" ><img src="https://avatars.githubusercontent.com/u/97232730?v=4" width="150px;" alt=""/><br /><sub><b>Abdelrahman Ashraf</b></sub></a><br />
