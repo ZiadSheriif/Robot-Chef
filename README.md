@@ -25,9 +25,7 @@
 - <a href ="#Integration">🤖 Integration</a>
 - <a href ="#Contributors"> ✨ Contributors</a>
 - <a href ="#License"> 🔒 License</a> 
-<div align="center">
-<img  width=90% src="https://user-images.githubusercontent.com/71986226/178833143-e4346f72-4464-4f05-8401-efd12df8174f.gif">
-</div>
+<hr style="background-color: #4b4c60"></hr>
 
 <a id = "about"></a>
 
@@ -100,9 +98,7 @@ Captain Hook is robot which makes food and drinks.
  </table>
  </li>
 </ul>
-<div align="center">
-<img  width=90% src="https://user-images.githubusercontent.com/71986226/178833143-e4346f72-4464-4f05-8401-efd12df8174f.gif">
-</div>
+<hr style="background-color: #4b4c60"></hr>
 <a id = "Components"></a>
 
 ## :money_with_wings: Components & cost
@@ -128,9 +124,7 @@ Captain Hook is robot which makes food and drinks.
 | Tube (1m) | 1 | 15 EGP|
 
 ### Total Budgut = 1525 L.E
-<div align="center">
-<img  width=90% src="https://user-images.githubusercontent.com/71986226/178833143-e4346f72-4464-4f05-8401-efd12df8174f.gif">
-</div>
+<hr style="background-color: #4b4c60"></hr>
 
 <a id = "Machines"></a>
 
@@ -191,10 +185,10 @@ Boiler is response of put water after boiling in the cup and stirring  the drink
 </ul>
 <img align="center"  width =300px  src="https://user-images.githubusercontent.com/71986226/178755493-91d3f8c5-a138-43af-961d-4238daf78ca1.png">
 
-<br>
-<div align="center">
-<img  width=90% src="https://user-images.githubusercontent.com/71986226/178833143-e4346f72-4464-4f05-8401-efd12df8174f.gif">
-</div>
+
+
+
+<hr style="background-color: #4b4c60"></hr>
 
 <a id = "Integration"></a>
 
@@ -202,10 +196,7 @@ Boiler is response of put water after boiling in the cup and stirring  the drink
 
 [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
 
-<div align="center">
-<img  width=90% src="https://user-images.githubusercontent.com/71986226/178833143-e4346f72-4464-4f05-8401-efd12df8174f.gif">
-</div>
-
+<hr style="background-color: #4b4c60"></hr>
 
 ## <img  align="center" width= 70px height =55px src="https://media0.giphy.com/media/Xy702eMOiGGPzk4Zkd/giphy.gif?cid=ecf05e475vmf48k83bvzye3w2m2xl03iyem3tkuw2krpkb7k&rid=giphy.gif&ct=s"> Contributors <a id ="Contributors"></a>
 <table align="center">
