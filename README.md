@@ -97,6 +97,29 @@ Captain Hook is robot which makes food and drinks.
  </li>
 </ul>
 
+## :money_with_wings: Components & cost
+| Name| Number | Market Cost per Part                                                                                                         |
+| -------------- | -------------------------- | ------ | ---------------------------------------------------------------------------------------------------------------------------- |
+| Arduino Uno    | 1      | 150 EGP                                               |
+| 1298 motor driver | 4      | 60 EGP               |
+| DC Motor 20kg/cm 12v | 1      | 20 EGP
+| Nema 23 Motor | 3 | 30 EGP
+| Adapter (12v dc,1A)  | 4 | 25 EGP
+| 12v Adapter 3A | 1  | 45 EGP
+| Katel | 1 | 35  EGP
+|Pvc (50cm) | 1 | 10 EGP
+|Electric heater | 2 | 100 EGP
+| Bearings| 2| 20 EGP
+| Tyres rolls (50) | 1 |30 EGP
+| Relay 4 channel |1|55 EGP
+| 12v dc pump | 1 |100 EGP
+| Bluetooth Module | 1|120 EGP
+|juice filter | 2 | 20 EGP
+|Pvc's elbow | 1| 30 EGP
+| LDR 5mm | 1 | 2.5 EGP
+| Tube (1m) | 1 | 15 EGP
+| Knife | 1 |10 EGP
+
 <hr style="background-color: #4b4c60"></hr>
 
 <a id = "Machines"></a>
