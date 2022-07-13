@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img align="center" width=70px height=70px src="https://media2.giphy.com/media/4LI8lJ9dvzGi4/giphy.gif?cid=ecf05e47yo93g95r2i9kw4wwjjgyeul7jazeqqi19getkn36&rid=giphy.gif&ct=s"> Captain Hook
+# <img align="center" width=70px height=70px src="https://media1.giphy.com/media/ycXaMGV4wwjRu/giphy.gif?cid=ecf05e47ytoppsum8la6xkbj0ai2uj049blc28c61pjdjmu9&rid=giphy.gif&ct=s"> Captain Hook
 
 
    <img width=600px  src="https://user-images.githubusercontent.com/71986226/178690198-9271adbf-d7d2-4728-a762-6ed72c0790f3.png" alt="logo">
@@ -12,6 +12,89 @@
 <p align="center"> 
     <br> 
 </p>
+
+## <img align= center width=50px height=50px src="https://user-images.githubusercontent.com/71986226/178468913-84c3151c-e8d1-4420-a9e9-b2434e9c2f75.gif"> Table of Contents
+
+- <a href ="#about"> 📙 overview</a>
+- <a href ="#Machines"> ⚙️  Machines</a>
+    - <a href ="#Arm"> 🦾 Arm</a>
+    - <a href ="#Food"> 🍲 Food's Machine</a>
+    - <a href ="#Knife"> 🔪 Knife</a>
+    - <a href ="#Boiler"> ☕ Boiler</a>
+- <a href ="#Integration">🤖 Integration</a>
+- <a href ="#Contributors"> ✨ Contributors</a>
+- <a href ="#License"> 🔒 License</a> 
+<hr style="background-color: #4b4c60"></hr>
+
+<a id = "about"></a>
+
+## <img align="center"  width =70px  height =70px src="https://media4.giphy.com/media/7ktwhqlnFaDAJ8AzIw/giphy.gif?cid=ecf05e47p68znkbblq8sysehj7ahivaaceyfjly28ch0y4m7&rid=giphy.gif&ct=s"> Overview 
+
+<ul>
+<li>
+Captain Hook is robot which makes food and drinks.
+ </li>
+ <li>
+ Captain Hook consist of 4 parts
+ <ul>
+ <li>Arm</li>
+ <li>Food's Machine</li>
+ <li>Knife</li>
+ <li>Boiler</li>
+ </ul>
+ </li>
+  <li>
+ Menu of food
+ <ul>
+ <li>Rice</li>
+ <li>Pasta</li>
+ <li>French fries</li>
+ <li>sautéed salad</li>
+ </ul>
+ </li>
+  <li>
+ Menu of Drinks
+ <ul>
+ <li>Tee</li>
+ <li>Nescafe</li>
+ </ul>
+ </li>
+</ul>
+
+<hr style="background-color: #4b4c60"></hr>
+
+<a id = "Machines"></a>
+
+## <img align="center"  width =80px  height =80px src="https://media2.giphy.com/media/Qx5iidUF67vTlqa9s2/giphy.gif?cid=ecf05e47thobyej7kzr9onino4teqjugkvr51bhujydrc6e6&rid=giphy.gif&ct=s"> Machines 
+
+<a id = "Arm"></a>
+
+### <img align="center"  width =80px  height =80px src="https://media1.giphy.com/media/U22HxRRRXQDHrRwxz7/giphy.gif?cid=ecf05e47q75w3nv9j1osrv4xbnqqm23d2tmb4myyj9ufg4nd&rid=giphy.gif&ct=s"> Arm
+
+<a id = "Food"></a>
+
+### <img align="center"  width =80px  height =80px src="https://media3.giphy.com/media/4CWSaafe9SOzB1cmEa/giphy.gif?cid=ecf05e47q5yhejy0ng4duja7jrzvlx1oqw5pfupiabxu1nf2&rid=giphy.gif&ct=s"> Food's Machine
+
+
+<a id = "Knife"></a>
+
+### <img align="center"  width =80px  height =80px src="https://media0.giphy.com/media/EppjGnpkOrY0rvjbsA/giphy.gif?cid=ecf05e4732u005bpf9xh4rni4pd64f1yfulqwepk5vbob3i7&rid=giphy.gif&ct=s"> Knife
+
+
+<a id = "Boiler"></a>
+
+### <img align="center"  width =80px  height =80px src="https://media1.giphy.com/media/ii2g4OpzlzWosixidO/giphy.gif?cid=ecf05e47z2s1da1eypgleqqcds0bqgyyvignyxai8mvyy8g3&rid=giphy.gif&ct=s"> Boiler
+
+
+
+
+<hr style="background-color: #4b4c60"></hr>
+
+<a id = "Integration"></a>
+
+## <img align="center"  width =80px  height =80px src="https://media1.giphy.com/media/lr7lYUc00nr3hWsoVa/giphy.gif?cid=ecf05e47f99e9tbsstbe3u9mzphxjrp27jxozshi64cok467&rid=giphy.gif&ct=s"> Integration 
+
+<hr style="background-color: #4b4c60"></hr>
 
 ## <img  align="center" width= 70px height =55px src="https://media0.giphy.com/media/Xy702eMOiGGPzk4Zkd/giphy.gif?cid=ecf05e475vmf48k83bvzye3w2m2xl03iyem3tkuw2krpkb7k&rid=giphy.gif&ct=s"> Contributors <a id ="Contributors"></a>
 <table align="center">
@@ -115,3 +198,7 @@ Amr</b></sub></a><br />
       <td align="center"><a href="https://github.com/Fathi79"><img src="https://avatars.githubusercontent.com/u/96377553?v=4" width="150px;" alt=""/><br /><sub><b>Abd Elrhman Fathi</b></sub></a><br /></td>
   </tr>
 </table>
+
+## License <a id ="License"></a>
+
+> This software is licensed under MIT License, See [License](https://github.com/ZiadSheriif/Robot-Chef/blob/master/LICENSE) for more information ©EslamAsHhraf.
