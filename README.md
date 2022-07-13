@@ -116,60 +116,60 @@ Captain Hook is robot which makes food and drinks.
   <tr>
     <td align="center">
     <a href="https://github.com/Abd-ELrahmanHamza" target="_black">
-    <img src="https://avatars.githubusercontent.com/u/68310502?v=4" width="150px;" alt="Abdelrahman Mohamed"/>
+    <img src="https://avatars.githubusercontent.com/u/68310502?v=4" width="200px;" alt="Abdelrahman Mohamed"/>
     <br />
     <sub><b>Abdelrahman Mohamed</b></sub></a>
     </td>
-      <td align="center"><a href="https://github.com/abdelazizSalah" ><img src="https://avatars.githubusercontent.com/u/71516308?v=4" width="150px;" alt=""/><br /><sub><b>Abdelaziz Salah</b></sub></a><br />
+      <td align="center"><a href="https://github.com/abdelazizSalah" ><img src="https://avatars.githubusercontent.com/u/71516308?v=4" width="200px;" alt=""/><br /><sub><b>Abdelaziz Salah</b></sub></a><br />
     </td>
-       <td align="center"><a href="https://github.com/EslamAsHhraf"><img src="https://avatars.githubusercontent.com/u/71986226?v=4" width="150px;" alt=""/><br /><sub><b>Eslam Ashraf</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/waleedhesham446" ><img src="https://avatars.githubusercontent.com/u/72695729?v=4" width="150px;" alt=""/><br /><sub><b>Waleed Hesham</b></sub></a><br />
+       <td align="center"><a href="https://github.com/EslamAsHhraf"><img src="https://avatars.githubusercontent.com/u/71986226?v=4" width="200px;" alt=""/><br /><sub><b>Eslam Ashraf</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/waleedhesham446" ><img src="https://avatars.githubusercontent.com/u/72695729?v=4" width="200px;" alt=""/><br /><sub><b>Waleed Hesham</b></sub></a><br />
     </td>
   </tr>
   <tr>
  <td align="center">
     <a href="https://github.com/ZiadSheriif" target="_black">
-    <img src="https://avatars.githubusercontent.com/u/78238570?v=4" width="150px;" alt="Ziad Sherif"/>
+    <img src="https://avatars.githubusercontent.com/u/78238570?v=4" width="200px;" alt="Ziad Sherif"/>
     <br />
     <sub><b>Ziad Sherif</b></sub></a>
     </td>
-       <td align="center"><a href="https://github.com/AdhamAliAbdelAal" ><img src="https://avatars.githubusercontent.com/u/83884426?v=4" width="150px;" alt=""/><br /><sub><b>Adham Ali</b></sub></a><br />
+       <td align="center"><a href="https://github.com/AdhamAliAbdelAal" ><img src="https://avatars.githubusercontent.com/u/83884426?v=4" width="200px;" alt=""/><br /><sub><b>Adham Ali</b></sub></a><br />
     </td>
-     <td align="center"><a href="https://github.com/MahmoudAbdelhamidAli"><img src="https://avatars.githubusercontent.com/u/87570209?v=4" width="150px;" alt=""/><br /><sub><b>Mahmoud Abdlhamid</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/AbdelrahmanAshrafMohamedelsayed" ><img src="https://avatars.githubusercontent.com/u/97232730?v=4" width="150px;" alt=""/><br /><sub><b>Abdelrahman Ashraf</b></sub></a><br />
+     <td align="center"><a href="https://github.com/MahmoudAbdelhamidAli"><img src="https://avatars.githubusercontent.com/u/87570209?v=4" width="200px;" alt=""/><br /><sub><b>Mahmoud Abdlhamid</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/AbdelrahmanAshrafMohamedelsayed" ><img src="https://avatars.githubusercontent.com/u/97232730?v=4" width="200px;" alt=""/><br /><sub><b>Abdelrahman Ashraf</b></sub></a><br />
     </td>
   </tr>
   
   <tr>
    <td align="center">
     <a href="https://github.com/ZeyadTarekk" target="_black">
-    <img src="https://avatars.githubusercontent.com/u/76125650?v=4" width="150px;" alt="Zeyad Tarek"/>
+    <img src="https://avatars.githubusercontent.com/u/76125650?v=4" width="200px;" alt="Zeyad Tarek"/>
     <br />
     <sub><b>Zeyad Tarek</b></sub></a>
     </td>
-      <td align="center"><a href="https://github.com/mohamedromee12"><img src="https://avatars.githubusercontent.com/u/75943278?v=4" width="150px;" alt=""/><br /><sub><b>Mohamed Romee</b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/khaHesham"><img src="https://avatars.githubusercontent.com/u/75990647?v=4" width="150px;" alt=""/><br /><sub><b>khaled Hesham</b></sub></a><br /></td>
-     <td align="center"><a href="https://github.com/MohamedWw" ><img src="https://avatars.githubusercontent.com/u/64079821?v=4" width="150px;" alt=""/><br /><sub><b>Mohamed Walid</b></sub></a><br />
+      <td align="center"><a href="https://github.com/mohamedromee12"><img src="https://avatars.githubusercontent.com/u/75943278?v=4" width="200px;" alt=""/><br /><sub><b>Mohamed Romee</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/khaHesham"><img src="https://avatars.githubusercontent.com/u/75990647?v=4" width="200px;" alt=""/><br /><sub><b>khaled Hesham</b></sub></a><br /></td>
+     <td align="center"><a href="https://github.com/MohamedWw" ><img src="https://avatars.githubusercontent.com/u/64079821?v=4" width="200px;" alt=""/><br /><sub><b>Mohamed Walid</b></sub></a><br />
     </td>
   </tr>
   <tr>
    <td align="center">
     <a href="https://github.com/BeshoyMorad" target="_black">
-    <img src="https://avatars.githubusercontent.com/u/82404564?v=4" width="150px;" alt="Beshoy Morad"/>
+    <img src="https://avatars.githubusercontent.com/u/82404564?v=4" width="200px;" alt="Beshoy Morad"/>
     <br />
     <sub><b>Beshoy Morad</b></sub></a> </td>
-      <td align="center"><a href="https://github.com/abdelrahman0123"><img src="https://avatars.githubusercontent.com/u/67989900?v=4" width="150px;" alt=""/><br /><sub><b>Abdelrahman Hamdy</b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/KirollosSamy"><img src="https://avatars.githubusercontent.com/u/67559650?v=4" width="150px;" alt=""/><br /><sub><b>Kirollos Samy</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/abdelrahman0123"><img src="https://avatars.githubusercontent.com/u/67989900?v=4" width="200px;" alt=""/><br /><sub><b>Abdelrahman Hamdy</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/KirollosSamy"><img src="https://avatars.githubusercontent.com/u/67559650?v=4" width="200px;" alt=""/><br /><sub><b>Kirollos Samy</b></sub></a><br /></td>
   </tr>
   <tr>
-   <td align="center"><a href="https://github.com/Waer1" ><img src="https://avatars.githubusercontent.com/u/70758177?v=4" width="150px;" alt=""/><br /><sub><b>Waer</b></sub></a><br />
+   <td align="center"><a href="https://github.com/Waer1" ><img src="https://avatars.githubusercontent.com/u/70758177?v=4" width="200px;" alt=""/><br /><sub><b>Waer</b></sub></a><br />
     </td>
-      <td align="center"><a href="https://github.com/AbdelrahmanNoaman"><img src="https://avatars.githubusercontent.com/u/76150639?v=4" width="150px;" alt=""/><br /><sub><b>Abdelrahman Noaman</b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/Fathi79"><img src="https://avatars.githubusercontent.com/u/96377553?v=4" width="150px;" alt=""/><br /><sub><b>Abd Elrhman Fathi</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/AbdelrahmanNoaman"><img src="https://avatars.githubusercontent.com/u/76150639?v=4" width="200px;" alt=""/><br /><sub><b>Abdelrahman Noaman</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/Fathi79"><img src="https://avatars.githubusercontent.com/u/96377553?v=4" width="200px;" alt=""/><br /><sub><b>Abd Elrhman Fathi</b></sub></a><br /></td>
     </td>
   </tr>
   <tr>
-   <td align="center"><a href="https://github.com/Amr146?tab=followers" ><img src="https://avatars.githubusercontent.com/u/76057767?v=4" width="150px;" alt=""/><br /><sub><b>
+   <td align="center"><a href="https://github.com/Amr146?tab=followers" ><img src="https://avatars.githubusercontent.com/u/76057767?v=4" width="200px;" alt=""/><br /><sub><b>
 Amr</b></sub></a><br />
     
   </tr>
