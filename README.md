@@ -117,8 +117,7 @@ Captain Hook is robot which makes food and drinks.
 |juice filter | 2 | 20 EGP
 |Pvc's elbow | 1| 30 EGP
 | LDR 5mm | 1 | 2.5 EGP
-| Tube (1m) | 1 | 15 EGP
-| Knife | 1 |10 EGP
+| Tube (1m) | 1 | 15 EGP|
 
 <hr style="background-color: #4b4c60"></hr>
 
