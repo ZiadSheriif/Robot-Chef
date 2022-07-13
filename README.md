@@ -194,8 +194,6 @@ Boiler is response of put water after boiling in the cup and stirring  the drink
 
 ## <img align="center"  width =80px  height =80px src="https://media1.giphy.com/media/lr7lYUc00nr3hWsoVa/giphy.gif?cid=ecf05e47f99e9tbsstbe3u9mzphxjrp27jxozshi64cok467&rid=giphy.gif&ct=s"> Integration 
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
-
 <hr style="background-color: #4b4c60"></hr>
 
 ## <img  align="center" width= 70px height =55px src="https://media0.giphy.com/media/Xy702eMOiGGPzk4Zkd/giphy.gif?cid=ecf05e475vmf48k83bvzye3w2m2xl03iyem3tkuw2krpkb7k&rid=giphy.gif&ct=s"> Contributors <a id ="Contributors"></a>
