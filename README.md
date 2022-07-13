@@ -103,7 +103,7 @@ Captain Hook is robot which makes food and drinks.
         
   </thead>
   <tr>
-   <td align="center"><a href="https://github.com/EslamAsHhraf"><img src="https://avatars.githubusercontent.com/u/71986226?v=4" width="150px;" alt=""/><br /><sub><b>Eslam Ashraf</b></sub></a><br /></td>
+   <td align="center"><a href="https://github.com/EslamAsHhraf"><img src="https://avatars.githubusercontent.com/u/71986226?v=4" width="200px;" alt=""/><br /><sub><b>Eslam Ashraf</b></sub></a><br /></td>
   </tr>
 </table>
 <table align="center">
