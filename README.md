@@ -109,6 +109,10 @@ Captain Hook is robot which makes food and drinks.
 
 <ul>
 <li>
+
+https://user-images.githubusercontent.com/71986226/178763186-ed939a9a-4a1e-4f3a-b391-da55c74b335e.mp4
+
+
 Arm is response for transfer food to heater and deliver for user
 </li>
 <li>
@@ -124,6 +128,10 @@ Arm has hook which make him can carry colander which contain food
 <ul>
 <li>
 Food's Machine is response for push food to Arm or Knife or Cup accoding the order
+
+https://user-images.githubusercontent.com/71986226/178763770-3bc835c8-91f7-49ec-bb72-496ea2922382.mp4
+
+
 </li>
 <li>
 Food's Machine has linear actuator help him to push food
@@ -143,6 +151,14 @@ The output go to arm
 </ul>
 
 <hr style="background-color: #4b4c60"></hr>
+
+
+https://user-images.githubusercontent.com/71986226/178763482-d420489b-4f85-4c68-9911-bd3ed93f64a6.mp4
+
+
+https://user-images.githubusercontent.com/71986226/178763000-17dd73df-1b37-4535-9643-f66aa7efc5c0.mp4
+
+
 <a id = "Boiler"></a>
 
 ### <img align="center"  width =80px  height =80px src="https://media1.giphy.com/media/ii2g4OpzlzWosixidO/giphy.gif?cid=ecf05e47z2s1da1eypgleqqcds0bqgyyvignyxai8mvyy8g3&rid=giphy.gif&ct=s"> Boiler
