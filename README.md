@@ -144,7 +144,7 @@ Arm is responsible for transferring food to the heater and then deliver it to us
 Arm has a hook which allows itto carry the colander which contains the food coming from the food's machine directly or the knife.
 </li>
 <li>
-<a href="https://github.com/EslamAsHhraf/Captain-Hook/blob/main/Arm/Arm.ino">Arm Code.</a>
+<a href="https://github.com/ZiadSheriif/Robot-Chef/blob/master/Arm/finalArm.ino">Arm Code.</a>
 </li>
 <li>
 Consists of 2 Stepper motor 
@@ -175,7 +175,7 @@ Food's Machine is responsible for pushing food out of the protective containers 
 Food's Machine has a linear actuator (Linear Motion DC Motor) which pushes the food using a piston found at the back of each container.
 </li>
 <li>
-<a href="https://github.com/EslamAsHhraf/Captain-Hook/blob/main/Food's%20Machine/PushingFood.ino">Food's Machine Code.</a>
+<a href="https://github.com/ZiadSheriif/Robot-Chef/blob/master/Food's%20Machine/finalpushingFood.ino">Food's Machine Code.</a>
 </li>
 <li>
 Consists of
@@ -227,7 +227,7 @@ DC motor 12v (200 kg.cm)
 Boiler is responsible of pouring water after boiling into the cup and stirring it inside.
 </li>
 <li>
-<a href="https://github.com/EslamAsHhraf/Captain-Hook/blob/main/Boiler/Boiler.ino">Boiler Code.</a>
+<a href="https://github.com/ZiadSheriif/Robot-Chef/blob/master/Boiler/finalBoiler.ino">Boiler Code.</a>
 </li>
 <li>
 Consists of
@@ -271,7 +271,7 @@ DC motor for stirring the drink
 
 <ul>
 <li>We use Pvc tubes to transfer food between machines.</li>
-<li><a href="https://github.com/EslamAsHhraf/Captain-Hook/blob/main/Integeration/integeration.ino">Integration code</a</li>
+<li><a href="https://github.com/ZiadSheriif/Robot-Chef/blob/master/Integeration/integeration.ino">Integration code</a</li>
 </ul>
 
 
