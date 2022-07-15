@@ -255,7 +255,7 @@ DC motor for stirring the drink
 <ul>
 <li>
 
-### <a href="https://github.com/EslamAsHhraf/Captain-Hook/blob/main/Circuit.ckt">Circuit<a>
+### <a href="https://github.com/ZiadSheriif/Robot-Chef/blob/master/Circuit.ckt">Circuit<a>
 </li>
 </ul>
 <br>
