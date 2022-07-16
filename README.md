@@ -409,4 +409,4 @@ Amr</b></sub></a><br />
 
 ## 🔒 License
 
-> This software is licensed under MIT License, See [License](https://github.com/EslamAsHhraf/Captain-Hook/blob/main/LICENSE) for more information ©EslamAsHhraf.
+> This software is licensed under MIT License, See [License](https://github.com/ZiadSheriif/Captain-Hook/blob/main/LICENSE) for more information ©ZiadSheriif.
