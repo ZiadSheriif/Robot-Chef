@@ -23,6 +23,7 @@
     - <a href ="#Boiler"> ☕ Boiler</a>
 - <a href ="#Circuit">💡 Circuit</a>
 - <a href ="#Integration">🤖 Integration</a>
+- <a href ="#DemoVideo"> :video_camera: Demo Video</a>
 - <a href ="#Contributors"> ✨ Contributors</a>
 - <a href ="#License"> 🔒 License</a> 
 <hr style="background-color: #4b4c60"></hr>
@@ -295,6 +296,11 @@ DC motor for stirring the drink
 
 </div>
 
+<hr style="background-color: #4b4c60"></hr>
+<div align="center">
+<a id ="DemoVideo"></a>
+ <a href="https://www.youtube.com/watch?v=_Pj2_P7AoI0"> :video_camera: Demo Video</a>
+ </div>
 <hr style="background-color: #4b4c60"></hr>
 
 <a id ="Contributors"></a>
